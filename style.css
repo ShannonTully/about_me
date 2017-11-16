@@ -1,28 +1,33 @@
-body{
+body {
   background: black;
   color: orange;
   font-family: sans-serif;
 }
-header{
+
+header {
   text-align: center;
 }
-article{
+
+article {
   border: solid;
   margin-right: 287px;
   margin-bottom: -2px;
   padding-bottom: 246px;
 }
-aside{
+
+aside {
   border: solid;
   float: right;
   margin-top: -388px;
 }
-footer{
+
+footer {
   border: solid;
   margin-right: 287px;
   padding-bottom: 11px;
 }
-#ansTitle{
+
+#ansTitle {
   border: solid;
   margin-left: -2px;
   margin-right: -2px;
